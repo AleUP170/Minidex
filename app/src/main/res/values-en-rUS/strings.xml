@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="height">Height: %1$s m</string>
+    <string name="weight">Weight: %1$s kg</string>
+    <string name="types">Types:</string>
+    <string name="abilities">Abilities:</string>
+    <string name="conError">Connection error</string>
+    <string name="devname">Alejandro Ugalde Perez</string>
+</resources>

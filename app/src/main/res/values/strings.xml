@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="height">Altura: %1$s m</string>
+    <string name="weight">Peso: %1$s kg</string>
+    <string name="types">Tipos: </string>
+    <string name="abilities">Habilidades: </string>
+
+    <string name="conError">Error de conexión</string>
+
+    <string name="devname">Alejandro Ugalde Pérez</string>
+
+</resources>
